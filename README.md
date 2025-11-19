@@ -23,3 +23,9 @@ A code-breaking game where the player guesses a hidden color/number sequence.
 - Provides feedback on correct guesses and positions  
 - Uses loops, conditionals, and lists effectively  
 - Includes restart option and score counter
+
+### Employee Time-Off Tracker (SQL)
+A small database project designed to manage employee leave requests and available vacation days.
+- Models employee records and time-off requests using two relational tables.
+- Implements transactional logic to automatically deduct approved leave days from an employee's accrued balance.
+- Uses SQL JOINs and aggregation (SUM) to generate basic business reports (e.g., total days taken by department).
